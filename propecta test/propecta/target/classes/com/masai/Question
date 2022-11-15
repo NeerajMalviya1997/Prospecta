@@ -1,0 +1,7 @@
+Question: what are the key things you would consider when creating/consuming an API to ensure that it is secure and reliable?
+ans : if any one wants to get or post entity need to check is this person is authorizes or not 
+    after this we will allow him  to do some changes;
+    
+    for security perpose we can use spring scurity but now i have use dto classes where time if admin opr user login his current session start 
+    and generate uuid which is basically needs every point;
+    
